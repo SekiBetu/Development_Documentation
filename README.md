@@ -1,10 +1,10 @@
 # 开发文档(自用)
 
-[JDK8u281的API文档](https://SekiBetu.com/devdocs/JAVA8)
+[JDK8u291的API文档](https://SekiBetu.com/devdocs/JAVA8)
 
 [JDK11的API文档(中文版)](https://sekibetu.com/devdocs/JAVA11CN)
 
-[JDK11.0.10的API文档](https://SekiBetu.com/devdocs/JAVA11)
+[JDK11.0.11的API文档](https://SekiBetu.com/devdocs/JAVA11)
 
 [JAVAEE8的API文档](https://SekiBetu.com/devdocs/JAVAEE8)
 
